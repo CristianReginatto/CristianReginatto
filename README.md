@@ -1,5 +1,15 @@
 ### Hi there 👋
-Teste
+About me :scream:
+
+My name is Cristian Gabriel Reginatto from Brazil (🇧🇷). 
+
+In my free time I like to ride for motocycle, to know new places  , to watch movies and series, to listen to music  and drink beer.
+
+Would you like to find me?
+
+
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/cristian_reginatto_)](https://instagram.com/cristian_reginatto_)
+
 <!--
 **CristianReginatto/CristianReginatto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
